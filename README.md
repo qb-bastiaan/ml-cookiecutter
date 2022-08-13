@@ -1,7 +1,7 @@
 cookiecutter-ml
 ==============================
 
-ml-cookiecutter setup
+ml-cookiecutter setup with a preset folder setup.
 
 Project Organization
 ------------
